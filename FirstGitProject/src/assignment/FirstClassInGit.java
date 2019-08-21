@@ -12,7 +12,7 @@ public class FirstClassInGit {
 		System.out.printf("Your name is %s", name);
 		
 		//add a statement to display your name in the console
-		
+		 
 		//Then commit your changes
 
 	}
